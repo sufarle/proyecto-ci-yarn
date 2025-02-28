@@ -1,0 +1,15 @@
+{
+  "name": "proyecto-ci-yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "repository": "https://github.com/sufarle/proyecto-ci-yarn.git",
+  "author": "sufarle <sufarle4@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
